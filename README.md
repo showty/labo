@@ -4,7 +4,7 @@ labo_for_trainmeing
 I started to learn IT techniques .
 I'm not sure how I use here.just started.
 
-over30のほぼ未経験がITを学ぶために作成しました。
+未経験がITを学ぶために作成しました。
 ご指導ご鞭撻のほどよろしくお願いいたします。
 
 簡単なssr-progressive webapp 作りたくて奮闘中。
